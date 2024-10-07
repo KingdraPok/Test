@@ -2,3 +2,5 @@ Hello friends
 hello world!
 one more time 
 in the future
+Gitlab 
+Jira
